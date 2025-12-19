@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "802084366872",
+    "project_id": "book-reader-app-ff47f",
+    "storage_bucket": "book-reader-app-ff47f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802084366872:android:d8157e2b63da866af9716d",
+        "android_client_info": {
+          "package_name": "com.example.reader_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFoIFJ4rOA0c209lvSf4NTBc-UKP1anlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
